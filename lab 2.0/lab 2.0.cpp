@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main() // chel
+int main()
 {
 	double x; // вхідний параметр
 	double z1; // результат обчислення 1-го виразу
