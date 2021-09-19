@@ -21,8 +21,8 @@ int main()
 	z2 = tan(3 * x); // sheesh x2
 
 	cout << endl;
-	cout << "z1 = " << z1 << endl;
-	cout << "z2 = " << z2 << endl;
+	cout << "Результат розрахунку першої формули = " << z1 << endl;
+	cout << "Результат розрахунку другої формули = " << z2 << endl;
 	cin.get();
 	return 0;
 }
