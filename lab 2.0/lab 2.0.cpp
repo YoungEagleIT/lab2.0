@@ -15,7 +15,7 @@ int main()
 	double z1; // результат обчислення 1-го виразу
 	double z2; // результат обчислення 2-го виразу
 
-	cout << "x = ";
+	cout << "x = "; // auf
 	cin >> x;
 
 	z1 = (sin(x) + sin(5 * x) - sin(3 * x)) / (cos(x) - cos(3 * x) + cos(5 * x)); 
