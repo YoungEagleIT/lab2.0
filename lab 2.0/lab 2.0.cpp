@@ -1,6 +1,8 @@
 ﻿// lab 2.0.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
+// lav 2.1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+//
 
 #include <iostream>
 #include <cmath>
@@ -16,9 +18,9 @@ int main()
 	cout << "x = ";
 	cin >> x;
 
-	z1 = (sin(x) + sin(5 * x) - sin(3 * x)) / (cos(x) - cos(3 * x) + cos(5 * x)); // sheesh
+	z1 = (sin(x) + sin(5 * x) - sin(3 * x)) / (cos(x) - cos(3 * x) + cos(5 * x)); 
 
-	z2 = tan(3 * x); // sheesh x2
+	z2 = tan(3 * x); 
 
 	cout << endl;
 	cout << "Результат розрахунку першої формули = " << z1 << endl;
