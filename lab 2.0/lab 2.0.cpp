@@ -22,7 +22,7 @@ int main()
 
 	z2 = tan(3 * x); 
 
-	cout << endl;
+	cout << endl; // echkere
 	cout << "Результат розрахунку першої формули = " << z1 << endl;
 	cout << "Результат розрахунку другої формули = " << z2 << endl;
 	cin.get();
