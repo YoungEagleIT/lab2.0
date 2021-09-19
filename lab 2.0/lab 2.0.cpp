@@ -18,7 +18,7 @@ int main()
 	cout << "x = ";
 	cin >> x;
 
-	z1 = (sin(x) + sin(5 * x) - sin(3 * x)) / (cos(x) - cos(3 * x) + cos(5 * x)); 
+	z1 = (sin(x) + sin(5 * x) - sin(3 * x)) / (cos(x) - cos(3 * x) + cos(5 * x)); // eminem
 
 	z2 = tan(3 * x); 
 
